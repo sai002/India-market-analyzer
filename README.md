@@ -1,3 +1,10 @@
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+# India-market-analyzer
+"A professional-grade FastAPI backend that automates Indian market research. Uses Tavily AI for real-time scraping and Gemini 2.5 Flash for structured report generation. Features rate-limiting, Jinja2 templating, and Markdown export functionality."
+=======
+>>>>>>> temp-branch
 # India Market AI Analyzer
 
 A production-ready FastAPI backend that scrapes real-time Indian market data and generates structured, AI-driven trade opportunity reports using **Google Gemini 2.5 Flash**.
@@ -63,4 +70,9 @@ Download Report: Click the "Download .md File" button on the article page or app
 
 API Documentation: Interactive Swagger UI available at http://127.0.0.1:8000/docs.
 
+<<<<<<< HEAD
 Developed by SAIKIRAN BANDI | MCA Graduate 2025
+=======
+Developed by SAIKIRAN BANDI | MCA Graduate 2025
+>>>>>>> 89898f6 (Initial commit: AI Market Analyzer with FastAPI and Gemini)
+>>>>>>> temp-branch
