@@ -44,7 +44,7 @@ def analyze_market_data(sector: str, scraped_text: str) -> str:
     try:
         
         response = client.models.generate_content(
-            model='gemini-1.5-flash',
+            model='gemini-2.5-flash',
             contents=prompt
         )
         return response.text if response.text else "AI returned empty content. Safety filters may have blocked the response."
