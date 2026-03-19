@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+<img width="1877" height="955" alt="image" src="https://github.com/user-attachments/assets/f657b1d2-8769-45bf-a999-f16279951565" /><<<<<<< HEAD
 =======
 <<<<<<< HEAD
 # India-market-analyzer
@@ -69,6 +69,13 @@ Web View: Navigate to http://127.0.0.1:8000/analyze/{sector} (e.g., /analyze/pha
 Download Report: Click the "Download .md File" button on the article page or append ?download=true to the URL.
 
 API Documentation: Interactive Swagger UI available at http://127.0.0.1:8000/docs.
+
+## Sample Screen Shot
+
+<img width="1877" height="955" alt="image" src="https://github.com/user-attachments/assets/0878fe17-747d-4ec6-847b-8b9ea40c6071" />
+
+
+
 
 <<<<<<< HEAD
 Developed by SAIKIRAN BANDI | MCA Graduate 2025
